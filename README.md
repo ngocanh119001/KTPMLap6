@@ -1,4 +1,5 @@
 # KTPMLap6!
+[MQ]
 
 ![MQ](https://user-images.githubusercontent.com/99640383/195361912-f7b6e474-e8b8-471f-b1eb-9b2430003e7e.png)
 
